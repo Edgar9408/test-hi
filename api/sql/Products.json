@@ -1,0 +1,113 @@
+// aqui esta la lista de producto que utilicé para el desarrollo del proyecto
+{
+    "data": [
+        {
+            "id": 5,
+            "img": "https://img-ar-1.trovit.com/xKIw1gv171h/xKIw1gv171h.1_11.jpg",
+            "name": "Casa Edgar",
+            "description": "Casa en Carlos Paz",
+            "price": "4089.97955",
+            "typemoney": "EUR",
+            "userid": 1
+        },
+        {
+            "id": 6,
+            "img": "https://http2.mlstatic.com/D_NQ_NP_726270-MLA28819117244_112018-W.jpg",
+            "name": "Casa Edgar",
+            "description": "Casa con pileta",
+            "price": "5000",
+            "typemoney": "EUR",
+            "userid": 1
+        },
+        {
+            "id": 7,
+            "img": "https://static1.sosiva451.com/0892437/4fb4345b-9c98-48cd-b631-37d71b39803a_u_small.jpg",
+            "name": "Casa Edgar",
+            "description": "Casa con garage",
+            "price": "4089.97955",
+            "typemoney": "EUR",
+            "userid": 1
+        },
+        {
+            "id": 8,
+            "img": "https://casasdecampo.com.ar/wp-content/uploads/WPL/149/img_La-Porten%C5%BDita-2019-57.jpg",
+            "name": "Casa de campo",
+            "description": "Casa en el campo para descansar",
+            "price": "4089.97955",
+            "typemoney": "EUR",
+            "userid": 1
+        },
+        {
+            "id": 9,
+            "img": "https://imgar.zonapropcdn.com/avisos/1/00/42/91/63/83/1200x1200/1599668803.jpg",
+            "name": "Casa Alta Cordoba",
+            "description": "Casa 5 dormitorios y 2 baños",
+            "price": "4089.97955",
+            "typemoney": "EUR",
+            "userid": 1
+        },
+        {
+            "id": 13,
+            "img": "https://images.sparairnos.com/property/68453/images/799908/full/bda97f35-0bd6-4b7f-984e-5923ed2d43c6",
+            "name": "Casa 2 plantas",
+            "description": "Casa de 2 plantas en las sierras",
+            "price": "4089.97955",
+            "typemoney": "EUR",
+            "userid": 1
+        },
+        {
+            "id": 15,
+            "img": "https://imgcla.lavoz.com.ar/files/imagecache/ficha_aviso_mobile_462_253/avisos/aviso_casa/aviso-casa--8283261.jpg",
+            "name": "Casa conjunto residencial",
+            "description": "Hermosa casa conjunto residencial",
+            "price": "4089.97955",
+            "typemoney": "EUR",
+            "userid": 1
+        },
+        {
+            "id": 16,
+            "img": "http://www.santiagonovillo.com.ar/imagen/unquillo_atardecer.jpg",
+            "name": "Casa en el campo",
+            "description": "Casa en el campo",
+            "price": "4089.97955",
+            "typemoney": "EUR",
+            "userid": 1
+        },
+        {
+            "id": 17,
+            "img": "https://imgcla.lavoz.com.ar/files/imagecache/ficha_aviso_mobile_462_253/avisos/aviso_casa/aviso-casa--8952142.jpg",
+            "name": "Casa Villa Adela",
+            "description": "Casa en Villa Adela ideal para la familia",
+            "price": "4089.97955",
+            "typemoney": "EUR",
+            "userid": 1
+        },
+        {
+            "id": 10,
+            "img": "https://englishlive.ef.com/es-mx/blog/wp-content/uploads/sites/8/2019/03/partes-de-la-casa-en-ingles.jpg",
+            "name": "Casa Cordoba Capital",
+            "description": "Casa Cordoba con 4 dormitorios",
+            "price": "4089.97955",
+            "typemoney": "EUR",
+            "userid": 1
+        },
+        {
+            "id": 12,
+            "img": "https://www.casasplanet.com/blog/wp-content/uploads/2018/07/2-1.png",
+            "name": "Casa sierras",
+            "description": "Casa las sierras",
+            "price": "4089.97955",
+            "typemoney": "EUR",
+            "userid": 1
+        },
+        {
+            "id": 19,
+            "img": "https://img-ar-1.trovit.com/xKIw1gv171h/xKIw1gv171h.1_11.jpg",
+            "name": "Casa Edgar2",
+            "description": "Casa en Carlos Paz",
+            "price": "4089.97955",
+            "typemoney": "EUR",
+            "userid": 1
+        }
+    ]
+}

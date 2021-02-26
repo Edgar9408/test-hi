@@ -1,0 +1,18 @@
+.containercard{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.detailsCard{
+    border-radius: 8%;
+    width: 80%;
+    height: 80%;
+    max-width: 500px;
+}
+.CardText{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

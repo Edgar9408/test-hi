@@ -1,0 +1,27 @@
+.cardproduct{
+    width: 100%;
+    border-radius: 5%;
+}
+.imgcard{
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    position: relative;
+}
+.Cardtittle{
+    font-weight: bold;
+    color: red;
+    text-align: left;
+}
+.cardDescription{
+    color: grey;
+    text-align: left;
+}
+.imgcard:after{
+    content: "aqui va el precio";
+    position: absolute;
+    background-color: black;
+    opacity: 03;
+}
+.selector-for-some-widget {
+    box-sizing: content-box;
+  }
